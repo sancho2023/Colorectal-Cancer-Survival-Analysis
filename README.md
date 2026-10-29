@@ -1,4 +1,4 @@
-# Colorectal Cancer Survival Analysis (Hospital Cancer Registry, Mato Grosso, Brazil)
+# Colorectal Cancer Survival Analysis
 
 R analysis of overall survival (OS) and cancer-specific survival (CSS) in patients with colorectal cancer
 (ICD-O-3 C18-C20), using Kaplan-Meier curves, log-rank tests and Cox proportional hazards models.
